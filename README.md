@@ -2,7 +2,7 @@
 
 A Neural Network built from scratch using numpy. The dataset I use is the MNIST dataset. It contains 70000 28x28 images of hand written digits.
 
- file:///home/rdh/Downloads/320px-MnistExamples.png
+![m](file:///home/rdh/Downloads/320px-MnistExamples.png)
 
 The Neural Network has 4 total layers.
 
